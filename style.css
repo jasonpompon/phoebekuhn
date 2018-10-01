@@ -1,0 +1,15 @@
+.body-wrapper {
+    max-width: 1920px;
+    background: beige;
+    margin: 0 auto;
+}
+
+.inner-wrapper {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+.inner-wrapper img {
+    width: 100%;
+    max-width: 282px;
+}
